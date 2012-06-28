@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Hello World Android Project
+Hello World Android Application.
+
+Check the wiki for more details.
